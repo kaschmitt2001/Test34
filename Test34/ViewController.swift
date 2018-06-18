@@ -12,7 +12,7 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBAction func test(_ sender: UIButton) {
-        print("you gay")
+        print("fuck this")
     }
     override func viewDidLoad() {
         super.viewDidLoad()
